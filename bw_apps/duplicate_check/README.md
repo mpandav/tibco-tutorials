@@ -3,7 +3,7 @@ In this scenario we are demonstrating the below listed usecases.
 
  - Loading from a CSV file
  - Connecting to a locally hosted database
- - Identifying the Duplicates with DATA available into DB tabble; Comparing the data to ensure only unique values get processed
+ - Identifying the Duplicates with DATA available into DB table; Comparing the data to ensure only unique values get processed
  - Connecting to Salesforce
  - Updating the salesforce Order object with unique order details.
  
