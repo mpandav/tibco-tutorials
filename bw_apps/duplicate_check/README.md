@@ -8,10 +8,12 @@ In this tutorial, we are demonstrating the below listed usecases.
  - Updating the salesforce Order object with unique order details.
  
 We are demonstrating the same usecase using two different integration patterns. 
-1. **APILed Integration pattern** - using a microservices architecture to divide a functionality into smaller services and those services can be used individually. Ex. Creating Object in Salesforce, or findong duplicates for incoming data against db, etc.
+1. **APILed Integration pattern** <br />
+ Using a microservices architecture to divide a functionality into smaller services and those services can be used individually. Ex. Creating Object in Salesforce, or findong duplicates for incoming data against db, etc. <br /><br /> ![image](https://user-images.githubusercontent.com/38240734/190411363-53ff5c24-530b-42f3-8a0e-7939fffcb4af.png)
 
-2. **Traditional Integration approach** - One flow contains all the business logic (the cluttered way to doing it). 
 
+2. **Traditional Integration approach** <br />
+One flow contains all the business logic (the cluttered way to doing it). <br /> <br /> ![image](https://user-images.githubusercontent.com/38240734/190411227-307d8d2b-3555-4a11-8083-20e2bf49d9b6.png)
 
  
 ## HowTo Run?
