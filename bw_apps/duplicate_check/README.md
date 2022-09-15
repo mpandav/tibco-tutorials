@@ -1,7 +1,7 @@
 # Usecase
-In this scenario we are demonstrating the below listed usecases.
+In this tutorial, we are demonstrating the below listed usecases.
 
- - Loading from a CSV file
+ - How to load the data from a CSV file
  - Connecting to a locally hosted database
  - Identifying the Duplicates with DATA available into DB table; Comparing the data to ensure only unique values get processed
  - Connecting to Salesforce
